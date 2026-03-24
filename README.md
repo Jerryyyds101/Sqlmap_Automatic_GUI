@@ -28,7 +28,7 @@
 
 ### 使用方法
 
-1.解压压缩包到项目所在文件夹
+1.解压压缩包到项目所在文件夹  
 2. 双击运行 `启动SQLMap图形界面.bat` 或 `启动SQLMap图形界面.ps1`
 3. 在弹出的图形界面中：
    - **GET注入**：直接在URL输入框中输入包含参数的URL（如 `http://example.com/vulnerable.php?id=1`）
