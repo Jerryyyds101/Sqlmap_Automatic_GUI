@@ -28,12 +28,13 @@
 
 ### 使用方法
 
-1. 双击运行 `启动SQLMap图形界面.bat` 或 `启动SQLMap图形界面.ps1`
-2. 在弹出的图形界面中：
+1.解压压缩包到项目所在文件夹
+2. 双击运行 `启动SQLMap图形界面.bat` 或 `启动SQLMap图形界面.ps1`
+3. 在弹出的图形界面中：
    - **GET注入**：直接在URL输入框中输入包含参数的URL（如 `http://example.com/vulnerable.php?id=1`）
    - **POST注入**：选择POST请求类型，输入目标URL和POST数据（如 `username=admin&password=123`）
-3. 点击"开始注入"按钮
-4. 等待注入完成，查看结果区域获取flag
+4. 点击"开始注入"按钮
+5. 等待注入完成，查看结果区域获取flag
 
 ## 技术细节
 
